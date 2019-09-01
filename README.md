@@ -1,3 +1,5 @@
+#Javascript Validator Plugin
+
 
 ## Using the script
 
