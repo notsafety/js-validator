@@ -1,7 +1,4 @@
-#Javascript Validator Plugin
-
-
-## Using the script
+## Javascript Validator Plugin
 
 This script is free to use.
 
